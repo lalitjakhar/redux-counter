@@ -15,7 +15,7 @@ const App = () => {
     <>
       <div className="main-div">
         <div class="container">
-          <h1>Increament/Decreament counter</h1>
+          <h1>Increment/Decrement counter</h1>
           <h2>(using React & Redux)</h2>
 
           <div class="quantity">
